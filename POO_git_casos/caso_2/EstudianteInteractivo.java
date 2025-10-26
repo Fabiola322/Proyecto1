@@ -2,6 +2,7 @@
 // Consigna: Implementa una clase Java llamada `Estudiante` con atributos privados,
 // constructor y métodos `get/set`. El estudiante debe ser creado desde el método `main()` y
 // sus datos deben ser mostrados con uso de Scanner. Publica tu código en `caso2/`.
+package POO_git_casos.caso_2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
