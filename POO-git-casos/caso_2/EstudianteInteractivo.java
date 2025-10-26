@@ -113,8 +113,8 @@ public class EstudianteInteractivo {
         input.close();
 
         // Mostramos mensaje de registro exitoso y datos:
-        System.out.println("Registro exitoso!");
-        System.out.println("Datos: ");
+        System.out.println("\nRegistro exitoso!\n");
+        System.out.println("Datos: \n");
         estudiante.mostrarDatos();
 
     }
