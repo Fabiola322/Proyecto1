@@ -92,6 +92,7 @@ public class BancoApp {
 
         } while (opcion != 4);
 
-        sc.close();
+        sc.close(); // Cerramos el Scanner
     }
 }
+
