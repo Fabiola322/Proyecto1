@@ -1,3 +1,5 @@
+package POO_git_casos.caso_3;
+
 public class CuentaBancaria {
     private String titular;
     private double saldo;

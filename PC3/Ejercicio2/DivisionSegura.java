@@ -1,3 +1,5 @@
+package pc3.ejercicio2;
+
 import java.util.Scanner;
 
 public class DivisionSegura {

@@ -1,4 +1,5 @@
 // Sirve para manejar errores cuando el usuario ingresa un tipo de dato incorrecto con Scanner
+package POO_git_casos.caso_3;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
